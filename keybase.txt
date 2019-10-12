@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/thandohimself
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://thandohimself.github.io
+  * I am thandohimself (https://keybase.io/thandohimself) on keybase.
+  * I have a public key with fingerprint F8D6 66B0 AA13 15AF 472E  86B0 FED9 4A64 0939 1CF2
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010164938d204e0938df80829b0b3b16a8661e08d5a248cf889e23b5bb1aa341ad890a",
+      "fingerprint": "f8d666b0aa1315af472e86b0fed94a6409391cf2",
+      "host": "keybase.io",
+      "key_id": "fed94a6409391cf2",
+      "kid": "010164938d204e0938df80829b0b3b16a8661e08d5a248cf889e23b5bb1aa341ad890a",
+      "uid": "bfb6fce5fc85479f1ac05a0528d70e19",
+      "username": "thandohimself"
+    },
+    "service": {
+      "hostname": "thandohimself.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1570905589,
+  "expire_in": 157680000,
+  "prev": "0709f6b5bb33edcbaf30b653c19d931b2cdbd59b8e7961ce9d750c7da3144d9a",
+  "seqno": 2,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMIrAnicrVJbSFRBGF7NbhtZYK0pWXYkiDSbObc9s5WSBF0oH8pEKltmzszZPann
+rHuOl02ELhZmaUkRWhJ2o8KXxIjohmU9WA+K9VDRixIJ0UMQJVFJc6zeemxeZv5/
+vu/7v//nfzJ3ms+f1F9Qlr6scCSR9PzRtRpf+aWsLw0CsWlCCDUIFWzqYpWUOW64
+wqRCSAAQQFVGkkZFIDPgPQwNaCIigEgEqlhTVciARhUsyppuaBpiokQUQiDGkgwx
+1RDAQp5gmFaExWNx03K5rKFRVVUJwBhKUMGGHBSZxmODUSRjVeaFENQNkROjtuMx
+uDmCHZZv2jzHg/CUvX/g/7Pvmik5YhDV0Jli6JoiB5EBsQ4UDBRRo0HAIPKADotb
+uIpxtBvFFrWjZpXDKg2hMU/gX7Wmzrzpeu38C5YfMd1oDfndXyxuu7ZuV3JQ1HVj
+TsgTcRMxj1XHSPiPXpiYFuVz5YxaFndM2xJCkCN11/QKQCUIEFAUDeUJrD5mxlnY
+tKbSqgb48eqwWm9YHGeoXvOSxKhOsCEBoiqSDhFFEiSiTglVENFYEKlQZ4gGFaAH
+KZagLFPkjclh1ZYthERuE0e4pGNGLOzWxJnQ+Lh/T4ovye+bMT3Z2zeff/b8v1s4
+8XyWr3sgsDYdL/noP/39Z8dYU8Xy4cnOgb3K6MuH66f5cHPzJ1Vu3p1R6cwcwieS
+N8t+mribmtEgHcwebDjTU2rlH29t2Xf+8tFDObdPF7Ude1fb3tK6ajwtM6v45MqJ
+9nljr7Y/KevbsHDTxOjXnoCRM3lnzdGKb3XB3AAe3NE0WVB8+OKPnSX3Mrvv9V/P
+TpMXF21Zff/c0jcPTvXdaLl6tvf9sWFauPXKnc3P5qSU9l6+2VLSn9J1/UpRUuf3
+p+ve5JaiI/l5Gy/s/rCfre6bSDuQMz9q56aUd76u7xr5tijw48XHkVvO6HjjjJ+3
+s+HbbUVy6ouuz33VVUNtJXbHrsSKBYEm9Auf9EIQ
+=F7mF
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/thandohimself
+
+==================================================================
